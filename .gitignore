@@ -1,0 +1,12 @@
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Mac crap
+.DS_Store
+
+# node
+node_modules/
+
+dev/
+dist/
+sshConf.json
