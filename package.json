@@ -1,12 +1,24 @@
 {
   "name": "zaoshu",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "node SDK for zaoshu.io",
   "main": "index.js",
   "author": "scientihark@zaoshu.io",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "crypto-js": "^3.1.9-1",
     "request": "^2.83.0"
-  }
+  },
+  "homepage": "https://github.com/scientihark/node-zaoshu",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/scientihark/node-zaoshu.git"
+  },
+  "bugs": {
+    "url": "http://github.com/scientihark/node-zaoshu/issues"
+  },
+  "keywords": [
+    "zaoshu",
+    "crawler"
+  ]
 }
